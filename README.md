@@ -3,6 +3,6 @@
 
 Game created using Python language and mainly Pygame module. 
 ## While making this game I learned:
-  -a lot about OOP in Python
-  -Socket programming
-  -UI/UX in basic games
+###  -a lot about OOP in Python
+###  -Socket programming
+###  -UI/UX in basic games
